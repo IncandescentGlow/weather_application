@@ -2,6 +2,8 @@
 
 This is a simple Flutter application that displays weather information, including the weather icon, location name, and temperature in Celsius using the Openweather API [a link](https://openweathermap.org/api).
 
+<img width="1080" height="2400" alt="Screenshot_1770108951" src="https://github.com/user-attachments/assets/075aee58-4b06-4a55-8c9a-fdb0173ebac1" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
